@@ -1,0 +1,4 @@
+hostForVm
+=========
+
+Uses the VMware vSphere Web SDK to query on which host a VM currently resides or which host services which VMs.
